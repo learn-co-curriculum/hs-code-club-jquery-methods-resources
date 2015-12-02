@@ -9,3 +9,4 @@ Code not working and feeling like you need some extra help? Check out these jQue
 + [jQuery Documentation](https://api.jquery.com/category/miscellaneous/dom-element-methods/)
 
 + [Tuts Plus](http://code.tutsplus.com/tutorials/20-helpful-jquery-methods-you-should-be-using--net-10521)
+<a href='https://learn.co/lessons/hs-code-club-jquery-methods-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
